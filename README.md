@@ -5,3 +5,13 @@
 <p align="center">
   <img src="https://github.com/TwinDeath-altf4/scribere/blob/main/logo.png?raw=true" alt="img"/>
 </p>
+
+## технологии которые мы используем:
+- React JS
+- Nest JS
+- Bootstrap
+- Beget.com
+
+<h3>
+  все изображения взяты с сайта <a href="https://www.flaticon.com">Flaticon</a>
+</h3>
